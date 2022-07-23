@@ -13,3 +13,7 @@ Segmentation was performed on: https://www.tugraz.at/index.php?id=22387
 
 <hr>
 notebook model_training contains code for data augmentation and model training 
+<hr>
+predictions made by most succesful model - Attention Unet:
+
+![img](predictions.png)
