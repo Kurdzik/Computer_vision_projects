@@ -12,7 +12,7 @@ Folder u_net_architectures contains implementations of:
 Segmentation was performed on: https://www.tugraz.at/index.php?id=22387
 
 <hr>
-notebook model_training contains code for data augmentation and model training 
+notebook `model_training.ipynb` contains code for data augmentation and model training 
 <hr>
 predictions made by most succesful model - Attention Unet:
 
