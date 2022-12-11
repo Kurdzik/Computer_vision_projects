@@ -1,6 +1,6 @@
 # Image segmentation U-Net
 
-Folder u_net_architectures contains implementations of:
+Directory u_net_architectures contains implementations of:
 
 <li> Attention U-net
 <li> U-net++
